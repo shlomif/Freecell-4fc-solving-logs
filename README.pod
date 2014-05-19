@@ -1,0 +1,14 @@
+=encoding utf8
+
+=head1 Logs of Solving 4-cell Freecell Deals Using Freecell Solver
+
+L<Freecell Solver|http://fc-solve.shlomifish.org/> is an open source
+(distributed under the MIT/X11 licence) library, written in C, for attempting
+to solve several variants of card Solitaire/Patience, including
+L<Freecell|http://en.wikipedia.org/wiki/FreeCell> .
+
+The logs directory contains the logs for solving the 4-freecell deals of
+Freecell dealt using the MS Freecell algorithm starting from 100 million
+(100,000,000) and hopefully going up to 1e9 (= a milliard).
+
+=cut
