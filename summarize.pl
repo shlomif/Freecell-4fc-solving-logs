@@ -31,3 +31,11 @@ my $tfts_impossible = @tfts_impossible;
 $fh->print( "Toons-for-twenty-somethings deteremined:\n\t- solved $tfts_solved (total)\n\t- impossible $tfts_impossible\n\t- to check @{[scalar @tfts_to_check]}\n\n" );
 
 # print "@unsolved_amateur_star";
+my @dbm_solved = io('dbm-solver-summary/solved.txt')->chomp->getlines;
+my @dbm_impossible = io('dbm-solver-summary/unsolved.txt')->chomp->getlines;
+my @dbm_to_check = io('dbm-solver-summary/to-check.txt')->chomp->getlines;
+
+my $dbm_solved = $tfts_solved + @dbm_solved;
+my $dbm_impossible = $tfts_impossible + @dbm_impossible;
+
+$fh->print( "DBM solver deteremined:\n\t- solved $dbm_solved (total)\n\t- impossible $dbm_impossible (total)\n\t- to check @{[scalar @dbm_to_check]}\n\n" );
