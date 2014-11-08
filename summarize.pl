@@ -18,7 +18,7 @@ my $total = 900_000_000;
 
 my $solved_amateur_star = $total - $num_unsolved_amateur_star;
 
-my $fh = io('-');
+my $fh = io('|commify');
 $fh->print ( "Out of $total deals, Amateur Star:\n\t - solved $solved_amateur_star deals\n\t - left $num_unsolved_amateur_star as indetermined.\n\n" );
 
 my @tfts_solved = io('After-toons-for-twenty-somethings/solved.txt')->chomp->getlines;
