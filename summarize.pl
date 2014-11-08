@@ -39,3 +39,15 @@ my $dbm_solved = $tfts_solved + @dbm_solved;
 my $dbm_impossible = $tfts_impossible + @dbm_impossible;
 
 $fh->print( "DBM solver deteremined:\n\t- solved $dbm_solved (total)\n\t- impossible $dbm_impossible (total)\n\t- to check @{[scalar @dbm_to_check]}\n\n" );
+
+my @pats_solved = map { $_->name =~ /\/([0-9]+)\.sol\z/ ? ($1) : () } io("./patsolve-results/")->all_files;
+
+my $pats_solved = $dbm_solved + @pats_solved;
+my $pats_impossible = $dbm_impossible;
+
+$fh->print( "Patsolve solver deteremined:\n\t- solved $pats_solved (total)\n\t- impossible $pats_impossible (total)\n\t- to check 1\n\n" );
+
+my $hand_solved = $pats_solved + 1;
+my $hand_impossible = $pats_impossible;
+
+$fh->print( "Human/Computer assisted solving deteremined:\n\t- solved $hand_solved (total)\n\t- impossible $hand_impossible (total)\n\t- to check 0\n\n" );
