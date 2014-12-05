@@ -28,7 +28,7 @@ my @tfts_to_check = io('After-toons-for-twenty-somethings/to-check.txt')->chomp-
 my $tfts_solved = $solved_amateur_star + @tfts_solved;
 my $tfts_impossible = @tfts_impossible;
 
-$fh->print( "Toons-for-twenty-somethings deteremined:\n\t- solved $tfts_solved (total)\n\t- impossible $tfts_impossible\n\t- to check @{[scalar @tfts_to_check]}\n\n" );
+$fh->print( "Toons-for-twenty-somethings determined:\n\t- solved $tfts_solved (total)\n\t- impossible $tfts_impossible\n\t- to check @{[scalar @tfts_to_check]}\n\n" );
 
 # print "@unsolved_amateur_star";
 my @dbm_solved = io('dbm-solver-summary/solved.txt')->chomp->getlines;
@@ -38,16 +38,16 @@ my @dbm_to_check = io('dbm-solver-summary/to-check.txt')->chomp->getlines;
 my $dbm_solved = $tfts_solved + @dbm_solved;
 my $dbm_impossible = $tfts_impossible + @dbm_impossible;
 
-$fh->print( "DBM solver deteremined:\n\t- solved $dbm_solved (total)\n\t- impossible $dbm_impossible (total)\n\t- to check @{[scalar @dbm_to_check]}\n\n" );
+$fh->print( "DBM solver determined:\n\t- solved $dbm_solved (total)\n\t- impossible $dbm_impossible (total)\n\t- to check @{[scalar @dbm_to_check]}\n\n" );
 
 my @pats_solved = map { $_->name =~ /\/([0-9]+)\.sol\z/ ? ($1) : () } io("./patsolve-results/")->all_files;
 
 my $pats_solved = $dbm_solved + @pats_solved;
 my $pats_impossible = $dbm_impossible;
 
-$fh->print( "Patsolve solver deteremined:\n\t- solved $pats_solved (total)\n\t- impossible $pats_impossible (total)\n\t- to check 1\n\n" );
+$fh->print( "Patsolve solver determined:\n\t- solved $pats_solved (total)\n\t- impossible $pats_impossible (total)\n\t- to check 1\n\n" );
 
 my $hand_solved = $pats_solved + 1;
 my $hand_impossible = $pats_impossible;
 
-$fh->print( "Human/Computer assisted solving deteremined:\n\t- solved $hand_solved (total)\n\t- impossible $hand_impossible (total)\n\t- to check 0\n\n" );
+$fh->print( "Human/Computer assisted solving determined:\n\t- solved $hand_solved (total)\n\t- impossible $hand_impossible (total)\n\t- to check 0\n\n" );
