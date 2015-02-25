@@ -11,4 +11,13 @@ The logs directory contains the logs for solving the 4-freecell deals of
 Freecell dealt using the MS Freecell algorithm starting from 100 million
 (100,000,000) and hopefully going up to 1e9 (= a milliard).
 
+=head1 USAGE
+
+To prepare the statitistics, install GNU make and type "make" or "gmake".
+
+Then run C<perl summarize.pl> to get the summary.
+
+To see a list of impossible deals, run
+C<perl print-final-impossible-deals.pl> .
+
 =cut
