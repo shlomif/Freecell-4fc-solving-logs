@@ -205,8 +205,8 @@ Reached 9632961 ; States-in-collection: 14845883 ; Time: 1415221734.339591
 >>>Queue Stats: inserted=14845883 items_in_queue=5212922 extracted=9632961
 Success!
 --------
-Foundations: H-0 C-0 D-0 S-0 
-Freecells:                
+Foundations: H-0 C-0 D-0 S-0
+Freecells:
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 2C
@@ -219,8 +219,8 @@ Freecells:
 ==
 Column 3 -> Freecell 3
 --------
-Foundations: H-0 C-0 D-0 S-0 
-Freecells:  TS            
+Foundations: H-0 C-0 D-0 S-0
+Freecells:  TS
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 2C
@@ -233,8 +233,8 @@ Freecells:  TS
 ==
 Column 3 -> Freecell 3
 --------
-Foundations: H-0 C-0 D-0 S-0 
-Freecells:  3D  TS        
+Foundations: H-0 C-0 D-0 S-0
+Freecells:  3D  TS
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 2C
@@ -247,8 +247,8 @@ Freecells:  3D  TS
 ==
 Column 3 -> Freecell 3
 --------
-Foundations: H-0 C-0 D-A S-0 
-Freecells:  3D  3S  TS    
+Foundations: H-0 C-0 D-A S-0
+Freecells:  3D  3S  TS
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 2C
@@ -261,7 +261,7 @@ Freecells:  3D  3S  TS
 ==
 Column 3 -> Freecell 3
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3D  3S  5D  TS
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
@@ -275,7 +275,7 @@ Freecells:  3D  3S  5D  TS
 ==
 Column 3 -> Column 0
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3D  3S  5D  TS
 : TD JD 2H 7D KD KS 9S 8H
 : JH 5S 2D 9H KH 6S QS
@@ -289,8 +289,8 @@ Freecells:  3D  3S  5D  TS
 ==
 Freecell 2 -> Column 3
 --------
-Foundations: H-0 C-0 D-A S-0 
-Freecells:  3D  3S  TS    
+Foundations: H-0 C-0 D-A S-0
+Freecells:  3D  3S  TS
 : TD JD 2H 7D KD KS 9S 8H
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 2C
@@ -303,7 +303,7 @@ Freecells:  3D  3S  TS
 ==
 Column 6 -> Freecell 3
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3D  3S  TS  KC
 : TD JD 2H 7D KD KS 9S 8H
 : JH 5S 2D 9H KH 6S QS
@@ -317,7 +317,7 @@ Freecells:  3D  3S  TS  KC
 ==
 Column 7 -> Column 3
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3D  3S  TS  KC
 : TD JD 2H 7D KD KS 9S 8H
 : JH 5S 2D 9H KH 6S QS
@@ -331,8 +331,8 @@ Freecells:  3D  3S  TS  KC
 ==
 Freecell 0 -> Column 3
 --------
-Foundations: H-0 C-0 D-A S-0 
-Freecells:  3S  TS  KC    
+Foundations: H-0 C-0 D-A S-0
+Freecells:  3S  TS  KC
 : TD JD 2H 7D KD KS 9S 8H
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 2C
@@ -345,7 +345,7 @@ Freecells:  3S  TS  KC
 ==
 Column 6 -> Freecell 3
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  6H  TS  KC
 : TD JD 2H 7D KD KS 9S 8H
 : JH 5S 2D 9H KH 6S QS
@@ -359,7 +359,7 @@ Freecells:  3S  6H  TS  KC
 ==
 Column 2 -> Column 3
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  6H  TS  KC
 : TD JD 2H 7D KD KS 9S 8H
 : JH 5S 2D 9H KH 6S QS
@@ -373,7 +373,7 @@ Freecells:  3S  6H  TS  KC
 ==
 Column 6 -> Column 0
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  6H  TS  KC
 : TD JD 2H 7D KD KS 9S 8H 7S
 : JH 5S 2D 9H KH 6S QS
@@ -387,8 +387,8 @@ Freecells:  3S  6H  TS  KC
 ==
 Freecell 1 -> Column 0
 --------
-Foundations: H-0 C-0 D-A S-0 
-Freecells:  3S  TS  KC    
+Foundations: H-0 C-0 D-A S-0
+Freecells:  3S  TS  KC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC
@@ -401,7 +401,7 @@ Freecells:  3S  TS  KC
 ==
 Column 6 -> Freecell 3
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  TS  JC  KC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -415,7 +415,7 @@ Freecells:  3S  TS  JC  KC
 ==
 Column 6 -> Column 4
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  TS  JC  KC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -429,7 +429,7 @@ Freecells:  3S  TS  JC  KC
 ==
 Column 6 -> Column 2
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  TS  JC  KC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -437,14 +437,14 @@ Freecells:  3S  TS  JC  KC
 : 6C 5D 4C 3D 2C
 : 5H QD 7C AS 4H QH JS
 : 4D 7H QC 8D 4S 3C
-: 
+:
 : AH 5C 3H 9C 8C
 
 ==
 Freecell 3 -> Column 6
 --------
-Foundations: H-0 C-0 D-A S-0 
-Freecells:  3S  TS  JC    
+Foundations: H-0 C-0 D-A S-0
+Freecells:  3S  TS  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 9D
@@ -457,7 +457,7 @@ Freecells:  3S  TS  JC
 ==
 Column 4 -> Freecell 3
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  TS  JC  JS
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -471,7 +471,7 @@ Freecells:  3S  TS  JC  JS
 ==
 Column 7 -> Column 2
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  TS  JC  JS
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -485,7 +485,7 @@ Freecells:  3S  TS  JC  JS
 ==
 Column 4 -> Column 6
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  TS  JC  JS
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -499,7 +499,7 @@ Freecells:  3S  TS  JC  JS
 ==
 Column 5 -> Column 4
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  TS  JC  JS
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -513,8 +513,8 @@ Freecells:  3S  TS  JC  JS
 ==
 Freecell 3 -> Column 6
 --------
-Foundations: H-0 C-0 D-A S-0 
-Freecells:  3S  TS  JC    
+Foundations: H-0 C-0 D-A S-0
+Freecells:  3S  TS  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 9D 8C
@@ -527,7 +527,7 @@ Freecells:  3S  TS  JC
 ==
 Column 7 -> Freecell 3
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  9C  TS  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -541,7 +541,7 @@ Freecells:  3S  9C  TS  JC
 ==
 Column 7 -> Column 5
 --------
-Foundations: H-0 C-0 D-A S-0 
+Foundations: H-0 C-0 D-A S-0
 Freecells:  3S  9C  TS  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -555,7 +555,7 @@ Freecells:  3S  9C  TS  JC
 ==
 Column 7 -> Column 0
 --------
-Foundations: H-A C-0 D-A S-0 
+Foundations: H-A C-0 D-A S-0
 Freecells:  3S  9C  TS  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C
 : JH 5S 2D 9H KH 6S QS
@@ -564,13 +564,13 @@ Freecells:  3S  9C  TS  JC
 : 5H QD 7C AS 4H 3C
 : 4D 7H QC 8D 4S 3H
 : KC QH JS
-: 
+:
 
 ==
 Freecell 2 -> Column 7
 --------
-Foundations: H-A C-0 D-A S-0 
-Freecells:  3S  9C  JC    
+Foundations: H-A C-0 D-A S-0
+Freecells:  3S  9C  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 9D 8C
@@ -583,7 +583,7 @@ Freecells:  3S  9C  JC
 ==
 Column 4 -> Freecell 3
 --------
-Foundations: H-A C-0 D-A S-0 
+Foundations: H-A C-0 D-A S-0
 Freecells:  3C  3S  9C  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C
 : JH 5S 2D 9H KH 6S QS
@@ -597,7 +597,7 @@ Freecells:  3C  3S  9C  JC
 ==
 Column 4 -> Column 0
 --------
-Foundations: H-A C-0 D-A S-A 
+Foundations: H-A C-0 D-A S-A
 Freecells:  3C  3S  9C  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C 4H
 : JH 5S 2D 9H KH 6S QS
@@ -611,8 +611,8 @@ Freecells:  3C  3S  9C  JC
 ==
 Freecell 1 -> Column 0
 --------
-Foundations: H-A C-0 D-A S-A 
-Freecells:  3C  9C  JC    
+Foundations: H-A C-0 D-A S-A
+Freecells:  3C  9C  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C 4H 3S
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC 9D 8C
@@ -625,7 +625,7 @@ Freecells:  3C  9C  JC
 ==
 Column 2 -> Freecell 3
 --------
-Foundations: H-A C-0 D-A S-A 
+Foundations: H-A C-0 D-A S-A
 Freecells:  3C  8C  9C  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C 4H 3S
 : JH 5S 2D 9H KH 6S QS
@@ -639,7 +639,7 @@ Freecells:  3C  8C  9C  JC
 ==
 Column 2 -> Column 7
 --------
-Foundations: H-A C-0 D-A S-A 
+Foundations: H-A C-0 D-A S-A
 Freecells:  3C  8C  9C  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C 4H 3S
 : JH 5S 2D 9H KH 6S QS
@@ -653,8 +653,8 @@ Freecells:  3C  8C  9C  JC
 ==
 Freecell 1 -> Column 7
 --------
-Foundations: H-A C-0 D-A S-A 
-Freecells:  3C  9C  JC    
+Foundations: H-A C-0 D-A S-A
+Freecells:  3C  9C  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C 4H 3S
 : JH 5S 2D 9H KH 6S QS
 : TH 8S AC 6D 2S TC
@@ -667,7 +667,7 @@ Freecells:  3C  9C  JC
 ==
 Column 2 -> Freecell 3
 --------
-Foundations: H-A C-0 D-A S-3 
+Foundations: H-A C-0 D-A S-3
 Freecells:  3C  9C  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C 4H
 : JH 5S 2D 9H KH 6S QS
@@ -681,8 +681,8 @@ Freecells:  3C  9C  TC  JC
 ==
 Column 2 -> Column 4
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  9C  TC  JC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  9C  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C 4H
 : JH 5S 2D 9H KH 6S QS
 : TH 8S
@@ -695,7 +695,7 @@ Freecells:  9C  TC  JC
 ==
 Column 0 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  4H  9C  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H 5C
 : JH 5S 2D 9H KH 6S QS
@@ -709,7 +709,7 @@ Freecells:  4H  9C  TC  JC
 ==
 Column 0 -> Column 4
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  4H  9C  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -723,8 +723,8 @@ Freecells:  4H  9C  TC  JC
 ==
 Freecell 0 -> Column 4
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  9C  TC  JC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  9C  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
 : TH 8S
@@ -737,7 +737,7 @@ Freecells:  9C  TC  JC
 ==
 Column 2 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9C  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -751,7 +751,7 @@ Freecells:  8S  9C  TC  JC
 ==
 Column 2 -> Column 6
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9C  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -760,13 +760,13 @@ Freecells:  8S  9C  TC  JC
 : 5H QD 7C 6D 5C 4H
 : 4D 7H QC 8D 4S 3H
 : TS 9D 8C
-: 
+:
 
 ==
 Freecell 1 -> Column 2
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  8S  TC  JC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  8S  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
 : KC QH JS TH 9C
@@ -774,12 +774,12 @@ Freecells:  8S  TC  JC
 : 5H QD 7C 6D 5C 4H
 : 4D 7H QC 8D 4S 3H
 : TS 9D 8C
-: 
+:
 
 ==
 Column 5 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  3H  8S  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -788,12 +788,12 @@ Freecells:  3H  8S  TC  JC
 : 5H QD 7C 6D 5C 4H
 : 4D 7H QC 8D 4S
 : TS 9D 8C
-: 
+:
 
 ==
 Column 5 -> Column 7
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  3H  8S  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
@@ -807,8 +807,8 @@ Freecells:  3H  8S  TC  JC
 ==
 Freecell 0 -> Column 7
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  8S  TC  JC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  8S  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S 6H
 : JH 5S 2D 9H KH 6S QS
 : KC QH JS TH 9C
@@ -821,7 +821,7 @@ Freecells:  8S  TC  JC
 ==
 Column 0 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  6H  8S  TC  JC
 : TD JD 2H 7D KD KS 9S 8H 7S
 : JH 5S 2D 9H KH 6S QS
@@ -835,7 +835,7 @@ Freecells:  6H  8S  TC  JC
 ==
 Column 0 -> Column 5
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  6H  8S  TC  JC
 : TD JD 2H 7D KD KS 9S 8H
 : JH 5S 2D 9H KH 6S QS
@@ -849,7 +849,7 @@ Freecells:  6H  8S  TC  JC
 ==
 Column 0 -> Column 2
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  6H  8S  TC  JC
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
@@ -863,8 +863,8 @@ Freecells:  6H  8S  TC  JC
 ==
 Freecell 0 -> Column 5
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  8S  TC  JC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  8S  TC  JC
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
 : KC QH JS TH 9C 8H
@@ -877,7 +877,7 @@ Freecells:  8S  TC  JC
 ==
 Column 4 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  4H  8S  TC  JC
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
@@ -891,7 +891,7 @@ Freecells:  4H  8S  TC  JC
 ==
 Column 4 -> Column 5
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  4H  8S  TC  JC
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
@@ -905,8 +905,8 @@ Freecells:  4H  8S  TC  JC
 ==
 Freecell 0 -> Column 5
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  8S  TC  JC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  8S  TC  JC
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
 : KC QH JS TH 9C 8H
@@ -919,7 +919,7 @@ Freecells:  8S  TC  JC
 ==
 Column 4 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  6D  8S  TC  JC
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
@@ -933,7 +933,7 @@ Freecells:  6D  8S  TC  JC
 ==
 Column 4 -> Column 2
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  6D  8S  TC  JC
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
@@ -947,8 +947,8 @@ Freecells:  6D  8S  TC  JC
 ==
 Freecell 0 -> Column 2
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  8S  TC  JC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  8S  TC  JC
 : TD JD 2H 7D KD KS 9S
 : JH 5S 2D 9H KH 6S QS
 : KC QH JS TH 9C 8H 7C 6D
@@ -961,7 +961,7 @@ Freecells:  8S  TC  JC
 ==
 Column 0 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  JC
 : TD JD 2H 7D KD KS
 : JH 5S 2D 9H KH 6S QS
@@ -975,7 +975,7 @@ Freecells:  8S  9S  TC  JC
 ==
 Column 4 -> Column 0
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  JC
 : TD JD 2H 7D KD KS QD
 : JH 5S 2D 9H KH 6S QS
@@ -989,8 +989,8 @@ Freecells:  8S  9S  TC  JC
 ==
 Freecell 3 -> Column 0
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  8S  9S  TC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  8S  9S  TC
 : TD JD 2H 7D KD KS QD JC
 : JH 5S 2D 9H KH 6S QS
 : KC QH JS TH 9C 8H 7C 6D
@@ -1003,7 +1003,7 @@ Freecells:  8S  9S  TC
 ==
 Column 1 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  QS
 : TD JD 2H 7D KD KS QD JC
 : JH 5S 2D 9H KH 6S
@@ -1017,7 +1017,7 @@ Freecells:  8S  9S  TC  QS
 ==
 Column 4 -> Column 1
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  QS
 : TD JD 2H 7D KD KS QD JC
 : JH 5S 2D 9H KH 6S 5H
@@ -1026,12 +1026,12 @@ Freecells:  8S  9S  TC  QS
 : TS 9D 8C
 : 4D 7H QC 8D 7S 6H 5C 4H
 : 4S 3H
-: 
+:
 
 ==
 Column 6 -> Column 7
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  QS
 : TD JD 2H 7D KD KS QD JC
 : JH 5S 2D 9H KH 6S 5H
@@ -1045,7 +1045,7 @@ Freecells:  8S  9S  TC  QS
 ==
 Column 6 -> Column 1
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  QS
 : TD JD 2H 7D KD KS QD JC
 : JH 5S 2D 9H KH 6S 5H 4S
@@ -1054,12 +1054,12 @@ Freecells:  8S  9S  TC  QS
 : TS 9D 8C
 : 4D 7H QC 8D 7S 6H 5C 4H
 : 3H
-: 
+:
 
 ==
 Column 0 -> Column 7
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  QS
 : TD JD 2H 7D KD KS QD
 : JH 5S 2D 9H KH 6S 5H 4S
@@ -1073,7 +1073,7 @@ Freecells:  8S  9S  TC  QS
 ==
 Column 7 -> Column 1
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  QS
 : TD JD 2H 7D KD KS QD
 : JH 5S 2D 9H KH 6S 5H 4S 3H
@@ -1082,12 +1082,12 @@ Freecells:  8S  9S  TC  QS
 : JC
 : 4D 7H QC 8D 7S 6H 5C 4H
 : TS 9D 8C
-: 
+:
 
 ==
 Column 0 -> Column 7
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  QS
 : TD JD 2H 7D KD KS
 : JH 5S 2D 9H KH 6S 5H 4S 3H
@@ -1101,7 +1101,7 @@ Freecells:  8S  9S  TC  QS
 ==
 Column 6 -> Column 4
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  QS
 : TD JD 2H 7D KD KS
 : JH 5S 2D 9H KH 6S 5H 4S 3H
@@ -1110,12 +1110,12 @@ Freecells:  8S  9S  TC  QS
 : QD JC
 : 4D 7H QC 8D 7S 6H 5C 4H
 : TS 9D 8C
-: 
+:
 
 ==
 Column 0 -> Column 7
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  QS
 : TD JD 2H 7D KD
 : JH 5S 2D 9H KH 6S 5H 4S 3H
@@ -1129,8 +1129,8 @@ Freecells:  8S  9S  TC  QS
 ==
 Freecell 3 -> Column 0
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  8S  9S  TC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  8S  9S  TC
 : TD JD 2H 7D KD QS
 : JH 5S 2D 9H KH 6S 5H 4S 3H
 : KS
@@ -1143,7 +1143,7 @@ Freecells:  8S  9S  TC
 ==
 Column 6 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  JC
 : TD JD 2H 7D KD QS
 : JH 5S 2D 9H KH 6S 5H 4S 3H
@@ -1157,7 +1157,7 @@ Freecells:  8S  9S  TC  JC
 ==
 Column 6 -> Column 2
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  JC
 : TD JD 2H 7D KD QS
 : JH 5S 2D 9H KH 6S 5H 4S 3H
@@ -1166,12 +1166,12 @@ Freecells:  8S  9S  TC  JC
 : KC QH JS TH 9C 8H 7C 6D
 : 4D 7H QC 8D 7S 6H 5C 4H
 : TS 9D 8C
-: 
+:
 
 ==
 Column 0 -> Column 7
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  JC
 : TD JD 2H 7D KD
 : JH 5S 2D 9H KH 6S 5H 4S 3H
@@ -1185,8 +1185,8 @@ Freecells:  8S  9S  TC  JC
 ==
 Freecell 3 -> Column 2
 --------
-Foundations: H-A C-3 D-A S-3 
-Freecells:  8S  9S  TC    
+Foundations: H-A C-3 D-A S-3
+Freecells:  8S  9S  TC
 : TD JD 2H 7D KD
 : JH 5S 2D 9H KH 6S 5H 4S 3H
 : KS QD JC
@@ -1199,7 +1199,7 @@ Freecells:  8S  9S  TC
 ==
 Column 0 -> Freecell 3
 --------
-Foundations: H-A C-3 D-A S-3 
+Foundations: H-A C-3 D-A S-3
 Freecells:  8S  9S  TC  KD
 : TD JD 2H 7D
 : JH 5S 2D 9H KH 6S 5H 4S 3H
@@ -1213,7 +1213,7 @@ Freecells:  8S  9S  TC  KD
 ==
 Column 0 -> Column 7
 --------
-Foundations: H-4 C-3 D-A S-3 
+Foundations: H-4 C-3 D-A S-3
 Freecells:  8S  9S  TC  KD
 : TD JD
 : JH 5S 2D 9H KH 6S 5H 4S
@@ -1227,7 +1227,7 @@ Freecells:  8S  9S  TC  KD
 ==
 Column 1 -> Foundation 3
 --------
-Foundations: H-4 C-3 D-A S-4 
+Foundations: H-4 C-3 D-A S-4
 Freecells:  8S  9S  TC  KD
 : TD JD
 : JH 5S 2D 9H KH 6S 5H
@@ -1241,7 +1241,7 @@ Freecells:  8S  9S  TC  KD
 ==
 Column 0 -> Column 6
 --------
-Foundations: H-4 C-3 D-A S-4 
+Foundations: H-4 C-3 D-A S-4
 Freecells:  8S  9S  TC  KD
 : TD
 : JH 5S 2D 9H KH 6S 5H
@@ -1255,8 +1255,8 @@ Freecells:  8S  9S  TC  KD
 ==
 Freecell 2 -> Column 6
 --------
-Foundations: H-4 C-3 D-A S-4 
-Freecells:  8S  9S  KD    
+Foundations: H-4 C-3 D-A S-4
+Freecells:  8S  9S  KD
 : TD
 : JH 5S 2D 9H KH 6S 5H
 : KS QD JC
@@ -1269,7 +1269,7 @@ Freecells:  8S  9S  KD
 ==
 Column 1 -> Freecell 3
 --------
-Foundations: H-4 C-3 D-A S-4 
+Foundations: H-4 C-3 D-A S-4
 Freecells:  5H  8S  9S  KD
 : TD
 : JH 5S 2D 9H KH 6S
@@ -1283,7 +1283,7 @@ Freecells:  5H  8S  9S  KD
 ==
 Column 1 -> Column 7
 --------
-Foundations: H-4 C-3 D-A S-4 
+Foundations: H-4 C-3 D-A S-4
 Freecells:  5H  8S  9S  KD
 : TD
 : JH 5S 2D 9H KH
@@ -1297,8 +1297,8 @@ Freecells:  5H  8S  9S  KD
 ==
 Freecell 2 -> Column 0
 --------
-Foundations: H-4 C-3 D-A S-4 
-Freecells:  5H  8S  KD    
+Foundations: H-4 C-3 D-A S-4
+Freecells:  5H  8S  KD
 : TD 9S
 : JH 5S 2D 9H KH
 : KS QD JC
@@ -1311,7 +1311,7 @@ Freecells:  5H  8S  KD
 ==
 Column 1 -> Freecell 3
 --------
-Foundations: H-4 C-3 D-A S-4 
+Foundations: H-4 C-3 D-A S-4
 Freecells:  5H  8S  KH  KD
 : TD 9S
 : JH 5S 2D 9H
@@ -1325,8 +1325,8 @@ Freecells:  5H  8S  KH  KD
 ==
 Column 1 -> Column 6
 --------
-Foundations: H-6 C-5 D-3 S-5 
-Freecells:  8S  KH  KD    
+Foundations: H-6 C-5 D-3 S-5
+Freecells:  8S  KH  KD
 : TD 9S
 : JH
 : KS QD JC
@@ -1339,7 +1339,7 @@ Freecells:  8S  KH  KD
 ==
 Column 5 -> Freecell 3
 --------
-Foundations: H-6 C-5 D-3 S-5 
+Foundations: H-6 C-5 D-3 S-5
 Freecells:  7S  8S  KH  KD
 : TD 9S
 : JH
@@ -1353,7 +1353,7 @@ Freecells:  7S  8S  KH  KD
 ==
 Column 5 -> Column 0
 --------
-Foundations: H-6 C-5 D-3 S-5 
+Foundations: H-6 C-5 D-3 S-5
 Freecells:  7S  8S  KH  KD
 : TD 9S 8D
 : JH
@@ -1367,8 +1367,8 @@ Freecells:  7S  8S  KH  KD
 ==
 Freecell 1 -> Column 6
 --------
-Foundations: H-6 C-5 D-3 S-5 
-Freecells:  7S  KH  KD    
+Foundations: H-6 C-5 D-3 S-5
+Freecells:  7S  KH  KD
 : TD 9S 8D
 : JH
 : KS QD JC
@@ -1381,7 +1381,7 @@ Freecells:  7S  KH  KD
 ==
 Column 5 -> Freecell 3
 --------
-Foundations: H-6 C-5 D-3 S-5 
+Foundations: H-6 C-5 D-3 S-5
 Freecells:  7S  QC  KH  KD
 : TD 9S 8D
 : JH
@@ -1395,16 +1395,16 @@ Freecells:  7S  QC  KH  KD
 ==
 Column 5 -> Column 6
 --------
-Foundations: H-K C-K D-K S-K 
-Freecells:                
-: 
-: 
-: 
-: 
-: 
-: 
-: 
-: 
+Foundations: H-K C-K D-K S-K
+Freecells:
+:
+:
+:
+:
+:
+:
+:
+:
 
 ==
 END
