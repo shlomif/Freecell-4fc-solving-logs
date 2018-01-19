@@ -1,5 +1,5 @@
 #!/bin/bash
-cat fc-solve-l-amateur-star-100M+1-to-1000M.total.dump | perl -lane 'print $1 if /^Unsolved Board No. (\d+)/' |
+cat fc-solve-l-amateur-star-100M+1-to-1000M.total.dump | perl -lane 'print $1 if /^(?:Unsolved|Intractable) Board No. (\d+)/' |
     (while read idx
     do
         echo "==[[ idx=$idx ]]=="
